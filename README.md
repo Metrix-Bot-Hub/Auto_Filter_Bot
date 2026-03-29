@@ -4,7 +4,7 @@
   <img src="https://telegra.ph/file/fbb389a97ef10661beee4-de11627ad571e6c45e.jpg" alt="DreamxBotz Logo">
 </p>
 
-<h1 align="center">𝗠𝗲𝘁𝗿𝗶𝘅 𝗕𝗼𝘁 𝗛𝘂𝗯</h1>
+<h1 align="center">𝖬𝖾𝗍𝗋𝗂𝗑 𝖡𝗈𝗍 𝖧𝗎𝖻</h1>
 
 ---
 
