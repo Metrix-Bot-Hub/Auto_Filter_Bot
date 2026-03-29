@@ -37,7 +37,7 @@ Try the live bot here:
 
 ## 🙏 Special Thanks To
 
-[Support Channel](https://t.me/Metrix_Bot_Hub)
+[XΛVIΣЯ](https://t.me/XAVIER_Tgx)
 
 ---
 
@@ -136,7 +136,7 @@ Use at your own discretion and **always respect platform rules and copyrights**.
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/MrRaazz/DreamxBotz/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/Metrix-Bot-Hub/Auto_Filter_Bot)
 
 ---
 
