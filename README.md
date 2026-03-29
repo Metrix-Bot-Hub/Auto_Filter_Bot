@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello Welcome</b></h1>
 
 <p align="center">
-  <img src="https://github.com/DreamXBotz/Pics/blob/main/dreamxbotz.jpg" alt="DreamxBotz Logo">
+  <img src="https://telegra.ph/file/fbb389a97ef10661beee4-de11627ad571e6c45e.jpg" alt="DreamxBotz Logo">
 </p>
 
 <h1 align="center">𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</h1>
